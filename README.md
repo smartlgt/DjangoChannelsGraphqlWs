@@ -8,6 +8,9 @@
 - Operation order is guaranteed due to WebSocket usage.
 - Subscription groups support based on the Django Channels groups.
 
+## Requirements
+- python>=3.6
+
 ## Quick start
 
 The `channels_graphql_ws` module provides two classes: `Subscription`
