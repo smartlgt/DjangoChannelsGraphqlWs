@@ -119,7 +119,7 @@ for details.
 
 ## Alternatives
 
-There is a [Tomáš Ehrlich](https://gist.github.com/tricoder42)
+There is a [Tomas Ehrlich](https://gist.github.com/tricoder42)
 GitHubGist [GraphQL Subscription with django-channels](https://gist.github.com/tricoder42/af3d0337c1b33d82c1b32d12bd0265ec)
 which this implementation was initially based on.
 
