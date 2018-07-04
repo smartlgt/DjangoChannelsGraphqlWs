@@ -101,6 +101,15 @@ MySubscription.broadcast(
 )
 ```
 
+Subscription query for the example:
+```
+subscription someName {
+    mySubscription (arg1: "hello", arg2: "world") {
+      event
+    }
+  }
+```
+
 ## Details
 
 For details check the [source code](channels_graphql_ws/graphql_ws.py)
